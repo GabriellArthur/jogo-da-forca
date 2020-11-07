@@ -1,0 +1,6 @@
+Tema:Frutas:Banana,Uva,Coco,Abacaxi,Maracuja,Manga
+Tema:Jogos:Mario,Zelda,Resident Evil,Pong,PacMan,DonkeyKong
+Tema:Animais:Elefante,Macaco,Canguru,Gaivota,Iguana,Ourico
+Tema:Objetos:Colheres,Tesoura,Pacote,Pratros,Brinco,Domino
+Tema:Profissões:Bombeiro,Eletricista,Medico,Advogado,Engenheiro,Costureiro
+Tema:Flores:Lavanda,Bromelia,Cravo,Orquidea,Jacinto,Acucena

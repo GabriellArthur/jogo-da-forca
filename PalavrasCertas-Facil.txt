@@ -1,0 +1,5 @@
+Frutas:Banana,Uva,Coco
+
+Animais:Elefante,Macaco,Cavalo
+
+Objetos:Tesoura,Pratos,Colher

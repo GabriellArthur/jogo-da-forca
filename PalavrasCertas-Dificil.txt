@@ -1,0 +1,23 @@
+Frutas:Banana,Uva,Coco,Abacaxi,Maracuja,Manga,Melancia,Caju,Morango,Laranja,Tangerina,Pera
+
+Jogos:Mario,Zelda,Resident Evil,Pong,PacMan,Minecraft,FlappyBird,Akinator,CrossFire,Trove,FreeFire,PUBG
+
+Animais:Elefante,Macaco,Canguru,Gaivota,Iguana,Ourico,Tigre,Serpente,Cavalo,Cabra,Rato,Galo
+
+Objetos:Colheres,Tesoura,Pacote,Pratros,Brinco,Domino,Mesa,Mochila,Estilete,Retrovisor,Trena,Cadeira
+
+Profissões:Bombeiro,Eletricista,Medico,Advogado,Engenheiro,Costureiro,Desenvolvedor,Analista,Atendente,Motorista,Artista,Empreendedor
+
+Flores:Lavanda,Bromelia,Cravo,Orquidea,Jacinto,Acucena,Dedaleira,Margarida,Lilas,Clethra,Astilbe,Viburno
+
+Corpo Humano:Axila,Boca,Cabeça,Cranio,Canela,Osso,Figado,Nariz,Pulmao,Rim,Veias,Vagina
+
+Sobremesas e Doces:Cannoli,Macaron,Sorvete,Waffle,Pave,Torta,Mousse,Pudin,Brigadeiro,Panetone,PetitGateau,Churros
+
+Esportes:Golfe,Futebol,Beisebol,Rugbi,Tenis,Volei,Basquete,Hoquei,Criquete,Handball,Futsal,Natacao
+
+Cores:Vermelho,Azul,Preto,Roxo,Laranja,Dourado,Turquesa,Marrom,Lilas,Rosa,Branco,Cinza
+
+Roupas e Acessórios: Touca,Bone,Meia,Blusa,Casaco,Calcado,Pochete,Relogio,Cinto,Bolsa,Bota,Coturno
+
+Legumes:Ervilha,Cenoura,Beterraba,Abobrinha,Alface,Cebolinha,Vagem,Acelga,Rabanete,Tomate,Pepino,Espinafre
